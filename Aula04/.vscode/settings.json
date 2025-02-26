@@ -1,0 +1,9 @@
+{
+    "notebook.output.fontSize": 20,
+    "notebook.markup.fontSize": 10,
+    "editor.fontSize": 18,
+    "notebook.output.textLineLimit": 30,
+    "notebook.output.lineHeight": 45,
+    "notebook.output.fontFamily": "10",
+    "notebook.markup.fontFamily": "10"
+}
